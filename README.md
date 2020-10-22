@@ -1,3 +1,5 @@
+A smart project
+
 # react-otp-input
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
