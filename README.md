@@ -1,4 +1,4 @@
-A smart project
+A smart project.
 
 # react-otp-input
 
